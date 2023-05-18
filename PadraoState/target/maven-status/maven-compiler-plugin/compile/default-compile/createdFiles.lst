@@ -1,0 +1,6 @@
+com\mycompany\padraostate\Alerta.class
+com\mycompany\padraostate\PadraoState.class
+com\mycompany\padraostate\SemafaroAmarelo.class
+com\mycompany\padraostate\Semafaro.class
+com\mycompany\padraostate\SemafaroVerde.class
+com\mycompany\padraostate\SemafaroVermelho.class

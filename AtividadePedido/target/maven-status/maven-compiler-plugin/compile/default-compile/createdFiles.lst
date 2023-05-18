@@ -1,0 +1,12 @@
+com\mycompany\atividadepedido\TelaPedido.class
+com\mycompany\atividadepedido\TelaPedido$1.class
+com\mycompany\atividadepedido\Pedido.class
+com\mycompany\atividadepedido\StatusEnviado.class
+com\mycompany\atividadepedido\StatusEntregue.class
+com\mycompany\atividadepedido\StatusNota.class
+com\mycompany\atividadepedido\AtividadePedido.class
+com\mycompany\atividadepedido\StatusSeparação.class
+com\mycompany\atividadepedido\TelaPedido$2.class
+com\mycompany\atividadepedido\Status.class
+com\mycompany\atividadepedido\StatusAguardando.class
+com\mycompany\atividadepedido\StatusPagamento.class
